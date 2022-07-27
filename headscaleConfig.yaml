@@ -105,7 +105,7 @@ ephemeral_node_inactivity_timeout: 30m
 
 # SQLite config
 db_type: sqlite3
-db_path: /var/lib/headscale/db.sqlite
+db_path: /workspace/var/lib/headscale/db.sqlite
 
 # # Postgres config
 # db_type: postgres
